@@ -49,5 +49,5 @@ $2ab \times cos(\theta) = a^2 + b^2 - c^2$
 $proj_{\vec w}\vec v = \|\vec v\| cos( \theta ) \frac{\vec w}{\| \vec w \|}$  
 $proj_{\vec w}\vec v = \frac{(\vec v \cdot \vec w)\vec w}{{\| \vec w \| }^2}$
 
-![Diagram of Vector Projection](vector_projection_diagram.png)  
+![Diagram of Vector Projection](./Resources/vector_projection_diagram.png)  
 *Diagram of $\vec w$ being projected onto $\vec v$*

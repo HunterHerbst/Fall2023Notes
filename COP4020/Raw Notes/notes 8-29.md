@@ -41,4 +41,4 @@ maximum largest -- will return the largest number from the list
 
 * Cannot type recursive functions directly into the interpreter. Recursive functions require a base case, which takes two lines, requiring us to create them in source files.
 
-[Example Recursive Functions](./8-29%20scripts/rec.hs)
+[Example Recursive Functions](../Scripts/8-29%20scripts/rec.hs)
