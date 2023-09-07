@@ -23,7 +23,7 @@ CAP4720
   * We tell GPU how the information is stored by specifying the GL_ATTRIBUTE
   
   ```py
-  # GET THIS SHIT FROM THE POWERPOINT BEFORE PUSHING YOU MORON
+  # GET THIS FROM THE POWERPOINT BEFORE PUSHING YOU MORON
   # HelloTriangle.pdf 40-44
   ```
 
@@ -34,7 +34,7 @@ CAP4720
 * When creating a VAO you need to bind it to a buffer, to be passed to the GPU `glBindVertexArray(vao)`
 
 ```py
-# dont be a retard and pull this information from the same powerpoint as VBOs, starting at slide 48
+# dont be a dummy and pull this information from the same powerpoint as VBOs, starting at slide 48
 ```
 
 ## Shaders ##
